@@ -145,7 +145,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     private void LoginButtonActionPerformed(java.awt.event.ActionEvent evt) {// GEN-FIRST:event_LoginButtonActionPerformed
         // TODO add your handling code here:
-        System.out.println("Test");
+        System.out.println("Hello World");
     }// GEN-LAST:event_LoginButtonActionPerformed
 
     /**
