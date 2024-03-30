@@ -141,8 +141,6 @@ public class MainFrame extends javax.swing.JFrame {
 
     private void LoginButtonActionPerformed(java.awt.event.ActionEvent evt) {
         // TODO add your handling code here:
-        String user = username.getText();
-        System.out.println(user);
     }
 
     /**
