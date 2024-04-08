@@ -1,1 +1,0 @@
-ntln("Hello, World!");
